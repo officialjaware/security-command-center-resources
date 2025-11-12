@@ -1,0 +1,41 @@
+{
+  "CLOUD_RUN_ADDED_MALICIOUS_BINARY_EXECUTED": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_ADDED_MALICIOUS_LIBRARY_LOADED": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_BUILT_IN_MALICIOUS_BINARY_EXECUTED": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_CONTAINER_ESCAPE": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_KUBERNETES_ATTACK_TOOL_EXECUTION": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_LOCAL_RECONNAISSANCE_TOOL_EXECUTION": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_MALICIOUS_PYTHON_EXECUTED": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_MODIFIED_MALICIOUS_BINARY_EXECUTED": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_MODIFIED_MALICIOUS_LIBRARY_LOADED": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_MALICIOUS_SCRIPT_EXECUTED": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_MALICIOUS_URL_OBSERVED": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_REVERSE_SHELL": {
+    "intendedEnablementState": "ENABLED"
+  },
+  "CLOUD_RUN_UNEXPECTED_CHILD_SHELL": {
+    "intendedEnablementState": "ENABLED"
+  }
+}
